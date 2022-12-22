@@ -1,6 +1,6 @@
 # fortran_terrain_itm
 
-This repository contains a collection of tools for manipulating BIL terrain files and some plubming to connect to the Irregular Terrain Model (aka. Longley-Rice) for radio propagation. 
+This repository contains a collection of tools for manipulating BIL terrain files and some plumbing to connect to the Irregular Terrain Model (aka. Longley-Rice) for radio propagation. 
 
 Note: this is all very hackish at best.  Beware.
 
